@@ -1,0 +1,8 @@
+{
+  "name": "Parallel Paradox",
+  "description": "PARALLEL PARADOX ROSTER",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
